@@ -1,3 +1,4 @@
+REMOTE
 # quetes5
 C'est la mère Michel qui a perdu son chat,
 Qui crie par la fenêtre à qui le lui rendra.
